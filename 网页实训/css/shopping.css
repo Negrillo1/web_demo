@@ -1,0 +1,219 @@
+html{
+	font: 12px '微软雅黑';
+}
+a{
+	color: #000;
+}
+.top{
+	background-color: #f7f7f7;
+	height: 26px;
+	border-bottom: 1px solid #d8d8d8;
+}
+.top_page{
+	width: 970px;
+	height: 26px;
+	margin: 0 auto;
+}
+.top_page_l{
+	line-height: 26px;
+}
+.top_page_r ul li{
+	float: left;
+	padding-right: 10px;
+	line-height: 26px;
+}
+.top_page_r ul li s{
+	width: 16px;
+	height: 16px;
+	background: url(../image/01.png);
+	display: inline-block;
+	vertical-align: middle;
+}
+.logo{
+	width: 970px;
+	height: 98px;
+	margin: 0 auto;
+
+}
+.logo_l{
+	width: 200px;
+	height: 55px;
+	background: url(../image/logo.png) no-repeat center;
+	margin: 24px 0 19px 9px;
+}
+.logo_r{
+	width: 530px;
+	height: 42px;
+	border: 1px solid #c9c9c9;
+	margin-top: 29px;
+}
+.logo_r_content{
+	margin: 5px 5px 5px 4px;
+}
+.logo_r_searche{
+	width: 418px;
+	height: 28px;
+	border: 1px solid #c9c9c9;
+	color: #999999;
+}
+.logo_r_btn{
+	width: 99px;
+	height: 30px;
+	color: white;
+	background-color: #2f70d0;
+}
+.nav{
+	width: 970px;
+	height: 25px;
+	margin: 0 auto;
+	border-bottom: 2px solid #0266a3;
+}
+.nav li{
+	padding: 0 15px 0 15px;
+	line-height: 25px;
+	float: left;
+	font-size: 14px;
+	font-weight: bold;
+} 	
+.nav li a{
+	color: #0266a3;
+}
+.nav li:hover{
+	background-color: #0266a3;
+
+}
+.nav li:hover a{
+	color: white;
+}
+.title{
+	text-align: center;
+	margin-top: 40px;
+}
+.title .p1{
+	font-family: '微软雅黑';
+	font-size: 30px;
+}
+.content{
+	width: 970px;
+	height: 600px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.left{
+	width: 632px;
+	height: 225px;
+	border: 1px solid #DADADA; 
+}
+.right{
+	width: 302px;
+	border: 1px solid #DADADA;
+}
+.product_1_p{
+	width: 160px;
+	height: 222.5px;
+	text-align: center;
+}
+.product_1_ex{
+	width: 469.97px;
+	height: 222.5px;
+}
+.product_1_ex .price{
+	width: 469.97px;
+	height: 141px;
+}
+.product_1_ex .price p{
+	margin-top: 10px;
+	font-size: 14px;
+}
+.product_1_ex .price p span{
+	font-size: 12px;
+	margin-left: 240px;
+}
+.product_1_ex .price p input{
+	width: 100px;
+	font-size: 12px;
+}
+.product_1_ex .price dl{
+	margin-top: 20px;
+	color: #555555;
+}
+.product_1_ex .price dl dt{
+	float: left;
+}
+.product_1_ex .price dl dd{
+	margin-left: 140px;
+}
+.product_1_ex .btn{
+	width: 346.5px;
+	height: 52px;
+	margin-top: 15px;
+}
+.btn div{
+	width: 108.88px;
+	height: 30px;
+	border: 1px solid #DADADA;
+	margin-top: 10px;
+	text-align: center;
+}
+.btn div img{
+	margin-top: 5px;
+}
+.btn div input{
+	width: 108.88px;
+	height: 30px;
+	text-align: center;
+}
+.btn .b2{
+	margin-left: 7px;
+}
+.right .ti{
+	width: 302px;
+	height: 62px;
+}
+.right .ti p{
+	padding: 20px;
+	font-size: 14px;
+}
+.right .cal{
+	width: 302px;
+	height: 126px;
+}
+.right .cal p{
+	padding: 21px;
+}
+.right .cal .input_1{
+	padding: 10px 20px 10px 10px;
+	margin-left: 20px;
+	border: 1px solid #dddddd;
+}
+.right .cal .input_2{
+	padding: 10px;
+	margin-left: 15px;
+	border: 2px solid #808080;
+}
+.right .inf{
+	width: 302px;
+	height: 320px;
+}
+.list{
+	margin-top: 10px;
+}
+.list td{
+	line-height: 20px;
+}
+.list th{
+	line-height: 20px;
+}
+.hr{
+	margin-top: 40px;
+}
+.buy input{
+	margin: 20px;
+	width: 262px;
+	height: 40px;
+	background: black;
+	color: white;
+}
+.buy p{
+	margin: 20px;
+}

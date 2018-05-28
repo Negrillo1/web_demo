@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="css/cssReset.css">
+	<link rel="stylesheet" type="text/css" href="css/index.css">
+	<link rel="stylesheet" type="text/css" href="css/common.css">
+	<link rel="stylesheet" href="css/luara.css">
+</head>
+<body>
+	 <script src="js/jquery-1.8.3.min.js"></script>
+	 <script src="js/jquery.luara.0.0.1.min.js"></script>
+	 <script src="js/index.js"></script>
+	<!-- S = 页面的顶部-->
+	<div class="top">
+		<div class="top_page">
+			<div class="top_page_l fl">您好，欢迎来到。。。</div>
+			<div class="top_page_r fr" >
+				<ul>
+					<li><a href="index.html">首页</a></li>
+					<li><a href="login.html">登录</a></li>
+					<li><a href="fav.html">我的收藏</a></li>
+					<li><a href="shopping.html">购物车</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<!-- E = 页面的顶部-->
+	<!-- S = logo-->
+	<div class="logo">
+		<div class="logo_l fl"></div>
+			<div class="logo_r fr">
+				<div class="logo_r_content">
+					<input type="input" name="" class="logo_r_searche fl" value="请输入关键字"> 
+					<input type="button" name="" class="logo_r_btn fl" value="搜索">
+				</div>  
+			</div>		
+	</div>
+	<!-- E = logo-->
+	<!-- S = 导航-->
+	<div class="nav">
+		<ul>
+			<li>
+				<a href="index.html">首页</a>
+			</li>
+			<li>
+				<a href="clothes.html">服饰</a>
+			</li>
+			<li>
+				<a href="house.html">家具</a>
+			</li>
+		</ul>
+		<div class="menu_1" id="menu_1">
+			<p>牛仔裤</p>
+			<p>短裤</p>
+			<p>衬衫</p>
+			<p>内衣</p>
+			<p>鞋子</p>
+			<p>袜子</p>
+			<p>配饰</p>
+			<p>泳装</p>
+		</div>
+		<div class="menu_2" id="menu_2">
+			<p>牛仔裤</p>
+			<p>基本款</p>
+			<p>上装</p>
+			<p>半身裙</p>
+			<p>连体裙</p>
+			<p>短裤</p>
+			<p>配饰</p>
+			<p>睡衣</p>
+		</div>
+		<div class="menu_3" id="menu_3">
+			<p>新生儿尺码0-9个月</p>
+			<p>女婴4个月-2岁</p>
+			<p>男婴4个月-2岁</p>
+			<p>女孩18个月-10岁</p>
+			<p>男孩18个月-10岁</p>
+			<p>女孩8岁-14岁+</p>
+			<p>男孩8岁-14岁+</p>
+		</div>
+		<div class="menu_4" id="menu_4">
+			<p>卧室节日</p>
+			<p>客厅节日</p>
+			<p>浴室节日</p>
+			<p>儿童房节日</p>
+			<p>厨房节日</p>
+			<p>室外节日</p>
+		</div>
+		<div class="menu_5" id="menu_5">
+			<p>卧室</p>
+			<p>客厅</p>
+			<p>浴室</p>
+			<p>儿童房</p>
+			<p>厨房</p>
+			<p>室外</p>
+		</div>
+		<div class="menu_6" id="menu_6">
+			<p>女士</p>
+			<p>男士</p>
+			<p>DIVIDED</p>
+			<p>	儿童</p>
+			<p>家居</p>
+		</div>
+	</div>
+	<!-- E = 导航-->
+	<!-- S = banner-->
+	<div class="banner">
+		<div class="subNav fl">
+			<h2>服装市场</h2>
+			<ul>
+				<li id="li_1"><s class="man"></s><a href="clothes.html">男士</a></li>
+				<li id="li_2"><s class="female"></s><a href="clothes.html">女士</a></li>
+				<li id="li_3"><s class="kids"></s><a href="clothes.html">儿童</a></li>
+				<li id="li_4"><s class="fev"></s><a href="clothes.html">节日</a></li>
+				<li id="li_5"><s class="house"></s><a href="clothes.html">家居</a></li>
+				<li id="li_6"><s class="discount"></s><a href="clothes.html">优惠</a></li>
+			</ul>
+		</div>
+		<div class="ad fl" id="ad">
+			<ul>
+				<li><a href="#"><img src="image/ad1.png" alt="1"></a></li>
+				<li><a href="#"><img src="image/ad2.png" alt="2"></a></li>
+				<li><a href="#"><img src="image/ad3.png" alt="3"></a></li>
+				<li><a href="#"><img src="image/ad4.png" alt="4"></a></li>
+			</ul>
+			<ol>
+            	<li></li>
+            	<li></li>
+            	<li></li>
+            	<li></li>
+        	</ol>
+		</div>
+		<script>
+    	$(function(){
+        <!--调用Luara示例-->
+        $(".ad").luara({width:"520",height:"210",interval:4000,selected:"seleted"});
+
+    	});
+    	</script>
+		<div class="message fr">
+			<div class="message_top">
+				<div class="page"></div>
+				<p>购物满299元享包邮，结帐时输入代码5000</p>
+			</div>
+			<div class="message_bottom">
+				<p class="p1">大减价</p>
+				<p class="p2">12月4日16:00开始</p>
+			</div>
+		</div>
+	</div>
+	<!-- E = banner-->
+	<div class="mancon">男士</div>
+	<!-- S = 具体信息-->
+	<div class="product">
+		<div class="product_l fl">
+			<div class="product_l_top">
+				<div class="p_l_t_product1 fl">
+					<div class="buy fl">
+						<div class="img"><s class="p1"></s></div>
+						<a href="product.html"><input type="button" value="立即购买" class="btn"></a>
+					</div>
+					<div class="explain fl">
+						<p>皮马棉千鸟格直筒衬衫，翻折领和法式前襟设计，附开口胸袋，腰身略收窄。背部有抵肩，长袖袖口配可调纽扣，弧形下摆。</p>
+					</div>
+				</div>
+				<div class="p_l_t_product1 fl">
+					<div class="buy fl">
+						<div class="img"><s class="p2"></s></div>
+						<a href="product.html"><input type="button" value="立即购买" class="btn"></a>
+					</div>
+					<div class="explain fl">
+						<p>缎质飞行员夹克，罗纹立领，拉链前襟，附嵌线侧袋，松紧袖口和下摆。内缝包边。</p>
+					</div>
+				</div>
+			</div>
+			<div class="product_l_line"></div>
+			<div class="product_l_top">
+				<div class="p_l_t_product1 fl">
+					<div class="buy fl">
+						<div class="img"><s class="p3"></s></div>
+						<a href="product.html"><input type="button" value="立即购买" class="btn"></a>
+					</div>
+					<div class="explain fl">
+						<p>含羊驼毛柔软针织套衫，略阔领口有罗纹饰边，袖口和下摆有卷边。</p>
+					</div>
+				</div>
+				<div class="p_l_t_product1 fl">
+					<div class="buy fl">
+						<div class="img"><s class="p4"></s></div>
+						<a href="product.html"><input type="button" value="立即购买" class="btn"></a>
+					</div>
+					<div class="explain fl">
+						<p>柔软羊绒V领长袖套衫，直筒休闲款，领口、袖口和下摆有罗纹。</p>
+					</div>
+				</div>
+			</div>	
+		</div>
+		<div class="product_r fr">
+			<h2>News</h2>
+			<ul>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+			</ul>
+		</div>
+	</div>
+	<!-- E = 具体信息-->
+	<div class="mancon">家居</div>
+	<div class="div" id="div">
+		<ul>
+			<li><a href="#"><img src="image/product/house_1.png" alt="1"></a></li>
+			<li><a href="#"><img src="image/product/house_2.png" alt="2"></a></li>
+		</ul>
+		<script>
+    	$(function(){
+        <!--调用Luara示例-->
+        $(".div").luara({width:"970",height:"400",interval:4000,selected:"seleted"});
+    	});
+    	</script>
+	</div>
+	<div class="mancon">女士</div>
+	<div class="product">
+		<div class="product_l fl">
+			<div class="product_l_top">
+				<div class="p_l_t_product1 fl">
+					<div class="buy fl">
+						<div class="img"><s class="woman_p1"></s></div>
+						<a href="product.html"><input type="button" value="立即购买" class="btn"></a>
+					</div>
+					<div class="explain fl">
+						<p>NICKI MINAJ x H&M。仿毛落肩短外套，背面有布贴花和刺绣，正面配隐形钩扣。缎质衬里。</p>
+					</div>
+				</div>
+				<div class="p_l_t_product1 fl">
+					<div class="buy fl">
+						<div class="img"><s class="woman_p2"></s></div>
+						<a href="product.html"><input type="button" value="立即购买" class="btn"></a>
+					</div>
+					<div class="explain fl">
+						<p>卫衣面料长袖上衣，罗纹袖口和下摆。</p>
+					</div>
+				</div>
+			</div>
+			<div class="product_l_line"></div>
+			<div class="product_l_top">
+				<div class="p_l_t_product1 fl">
+					<div class="buy fl">
+						<div class="img"><s class="woman_p3"></s></div>
+						<a href="product.html"><input type="button" value="立即购买" class="btn"></a>
+					</div>
+					<div class="explain fl">
+						<p>柔软棉混纺汗布背心，弧形下摆。</p>
+					</div>
+				</div>
+				<div class="p_l_t_product1 fl">
+					<div class="buy fl">
+						<div class="img"><s class="woman_p4"></s></div>
+						<a href="product.html"><input type="button" value="立即购买" class="btn"></a>
+					</div>
+					<div class="explain fl">
+						<p>柔软针织长袖开衫，青果领，无扣设计。</p>
+					</div>
+				</div>
+			</div>	
+		</div>
+		<div class="product_r fr">
+			<h2>News</h2>
+			<ul>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="mancon">儿童</div>
+	<div class="product">
+		<div class="product_l fl">
+			<div class="product_l_top">
+				<div class="p_l_t_product1 fl">
+					<div class="buy fl">
+						<div class="img"><s class="kids_p1"></s></div>
+						<a href="product.html"><input type="button" value="立即购买" class="btn"></a>
+					</div>
+					<div class="explain fl">
+						<p>轻盈卫衣面料上衣，正面饰亮片，上部贴花，插肩长袖，背面略长。</p>
+					</div>
+				</div>
+				<div class="p_l_t_product1 fl">
+					<div class="buy fl">
+						<div class="img"><s class="kids_p2"></s></div>
+						<a href="product.html"><input type="button" value="立即购买" class="btn"></a>
+					</div>
+					<div class="explain fl">
+						<p>提花梭织无袖连衣裙，背部配纽扣，腰部有接缝，喇叭薄纱裙摆。缎质衬里。</p>
+					</div>
+				</div>
+			</div>
+			<div class="product_l_line"></div>
+			<div class="product_l_top">
+				<div class="p_l_t_product1 fl">
+					<div class="buy fl">
+						<div class="img"><s class="kids_p3"></s></div>
+						<input type="button" value="立即购买" class="btn">
+					</div>
+					<div class="explain fl">
+						<p>棉质针织套衫，正面有反光印花图案，罗纹领口、袖口和下摆。</p>
+					</div>
+				</div>
+				<div class="p_l_t_product1 fl">
+					<div class="buy fl">
+						<div class="img"><s class="kids_p4"></s></div>
+						<input type="button" value="立即购买" class="btn">
+					</div>
+					<div class="explain fl">
+						<p>图案卫衣面料上衣和慢跑裤套装。上衣单肩配一粒按扣，罗纹袖口及下摆。慢跑裤有松紧裤腰和罗纹裤脚，附侧袋。柔软拉绒内里。</p>
+					</div>
+				</div>
+			</div>	
+		</div>
+		<div class="product_r fr">
+			<h2>News</h2>
+			<ul>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+				<li><a href="#">aaa</a></li>
+			</ul>
+		</div>
+	</div>
+	<!-- S = 友情链接-->
+	<div class="link">
+		<p class="link_p1">友情链接：<a href="http://www.baidu.com">百度</a>&nbsp;&nbsp;<a href="http://www2.hm.com">HM</a>&nbsp;&nbsp;<a href="http://www.ikea.com">宜家</a>&nbsp;&nbsp;</p>
+		<p class="link_p2"><a href="http://www.baidu.com">百度</a>&nbsp;&nbsp;<a href="http://www2.hm.com">HM</a>&nbsp;&nbsp;<a href="http://www.ikea.com">宜家</a>&nbsp;&nbsp;</p>
+	</div>
+	<!-- E = 友情链接-->
+	<!-- S = 关于我们-->
+	<div class="aboutMe">
+		<p>软件工程2班&nbsp;林敬凯</p>
+	</div>
+	<!-- E = 关于我们-->
+</body>
+</html>

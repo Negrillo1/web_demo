@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>购物车</title>
+	<link rel="stylesheet" type="text/css" href="css/cssReset.css">
+	<link rel="stylesheet" type="text/css" href="css/shopping.css">
+	<link rel="stylesheet" type="text/css" href="css/common.css">
+</head>
+<body>
+	<script src="js/shopping.js"></script>
+	<!-- S = 页面的顶部-->
+	<div class="top">
+		<div class="top_page">
+			<div class="top_page_l fl">您好，欢迎来到。。。</div>
+			<div class="top_page_r fr" >
+				<ul>
+					<li><a href="index.html">首页</a></li>
+					<li><a href="login.html">登录</a></li>
+					<li><a href="fav.html">我的收藏</a></li>
+					<li><a href="shopping.html">购物车</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<!-- E = 页面的顶部-->
+	<!-- S = logo-->
+	<div class="logo">
+		<div class="logo_l fl"></div>
+			<div class="logo_r fr">
+				<div class="logo_r_content">
+					<input type="input" name="" class="logo_r_searche fl" value="请输入关键字"> 
+					<input type="button" name="" class="logo_r_btn fl" value="搜索">
+				</div>  
+			</div>		
+	</div>
+	<!-- E = logo-->
+	<!-- S = 导航-->
+	<div class="nav">
+		<ul>
+			<li>
+				<a href="index.html">首页</a>
+			</li>
+			<li>
+				<a href="clothes.html">服饰</a>
+			</li>
+			<li>
+				<a href="house.html">家具</a>
+			</li>
+		</ul>
+	</div>
+	<!-- E = 导航-->
+	<!-- S = banner-->
+	<div class="title">
+		<p class="p1">购物袋</p>
+	</div>
+	<div class="content">
+		<div class="left fl" id="left">
+			<div class="product_1" id="product_1">
+				<div class="product_1_p fl">
+					<img src="image/buy/buy_1.png">
+				</div>
+				<div class="product_1_ex fr">
+					<div class="price">
+						<p>羊毛混纺大衣<span>总价：</span><input type="text" name="sump" value="999.00" readonly><br>¥999.00
+						</p>
+						<dl>
+							<dt>商品编号：</dt>
+							<dd>0501406005</dd>
+							<dt>颜色：</dt>
+							<dd>灰色/格纹</dd>
+							<dt>尺码:</dt>
+							<dd>44 (170|88A)</dd>
+						</dl>
+					</div>
+					<div class="btn">
+						<div class="b1 fl" onclick="deleted();">
+							<img src="image/delete.png">
+						</div>
+						<div class="b2 fl" onclick="fav();">
+							<img src="image/favorites.png">
+						</div>
+						<div class="b3 fr">
+							<input type="number" name="num" value="1" min="1" id="num" oninput="cal();">
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="right fr">
+			<div class="ti">
+				<p>购物袋总金额</p>
+			</div>
+			<div class="cal">
+				<p>添加折扣代码</p>
+				<input type="text" name="discount" class="input_1">
+				<input type="button" name="add" value="添加" class="input_2">
+			</div>
+			<div class="inf">
+				<table class="list" width="262px;" align="center">
+					<tr>
+						<th align="left">订单价值：</th>
+						<td align="right">¥<input type="text" name="price_1" readonly value="999.00" id="price_1"></td>
+					</tr>
+					<tr>
+						<th align="left">送货：</th>
+						<td align="right">¥<input type="text" name="price_2" readonly value="10" id="price_2"></td>
+					</tr>
+					<tr id="tr_sum">
+						<th align="left">总价:</th>
+						<td align="right">¥<input type="text" name="price_sum" readonly value="1009" id="price_sum"></td>
+					</tr>
+				</table>
+				<div class="hr">
+					<hr color="#dddddd" size="0.5" width="262px;">
+				</div>
+				<div class="buy">
+					<input type="button" name="buy" value="前往结账">
+					<p>价格和运费在结账时才会最终确认。<br><br>您可以取消订单，前提是您希望退回的商品在不迟于您收到订单商品后的30天内送达给我们。您可在此找到退换货政策全文</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- E = banner-->
+</body>
+</html>

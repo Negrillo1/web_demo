@@ -1,0 +1,185 @@
+html{
+	font: 12px '微软雅黑';
+}
+a{
+	color: #000;
+}
+.top{
+	background-color: #f7f7f7;
+	height: 26px;
+	border-bottom: 1px solid #d8d8d8;
+}
+.top_page{
+	width: 970px;
+	height: 26px;
+	margin: 0 auto;
+}
+.top_page_l{
+	line-height: 26px;
+}
+.top_page_r ul li{
+	float: left;
+	padding-right: 10px;
+	line-height: 26px;
+}
+.top_page_r ul li s{
+	width: 16px;
+	height: 16px;
+	background: url(../image/01.png);
+	display: inline-block;
+	vertical-align: middle;
+}
+.logo{
+	width: 970px;
+	height: 98px;
+	margin: 0 auto;
+
+}
+.logo_l{
+	width: 200px;
+	height: 55px;
+	background: url(../image/logo.png) no-repeat center;
+	margin: 24px 0 19px 9px;
+}
+.logo_r{
+	width: 530px;
+	height: 42px;
+	border: 1px solid #c9c9c9;
+	margin-top: 29px;
+}
+.logo_r_content{
+	margin: 5px 5px 5px 4px;
+}
+.logo_r_searche{
+	width: 418px;
+	height: 28px;
+	border: 1px solid #c9c9c9;
+	color: #999999;
+}
+.logo_r_btn{
+	width: 99px;
+	height: 30px;
+	color: white;
+	background-color: #2f70d0;
+}
+.nav{
+	width: 970px;
+	height: 25px;
+	margin: 0 auto;
+	border-bottom: 2px solid #0266a3;
+}
+.nav li{
+	padding: 0 15px 0 15px;
+	line-height: 25px;
+	float: left;
+	font-size: 14px;
+	font-weight: bold;
+} 	
+.nav li a{
+	color: #0266a3;
+}
+.nav li:hover{
+	background-color: #0266a3;
+
+}
+.nav li:hover a{
+	color: white;
+}
+.banner{
+	width: 970px;
+	height: 800px;
+	margin: 0 auto;
+	margin-top: 25px;
+}
+.left{
+	width: 468px;
+	height: 576px;
+}
+.left .p_s ul{
+	width: 74px;
+	height: 232px;
+}
+.left .p_s ul li{
+	width: 74px;
+	height: 111px;
+	margin-bottom: 10px;	
+}
+.left .p_b{
+	width: 384px;
+	height: 576px;
+}
+.right{
+	width: 468px;
+	height: 642px;
+}
+.right .p1{
+	font-size: 20px;
+}
+.right .p2{
+	margin-top: 20px;
+}
+.right img{
+	margin-top: 10px;
+}
+.size{
+	width: 475px;
+	height: 139px;
+}
+.size div{
+	float: left;
+	width: 85.31px;
+	height: 40px;
+	border: 1px solid #DADADA;
+	margin-right: 5px;
+	margin-top: 5px;
+	text-align: center;
+}
+.size div span{
+	line-height: 40px;
+	vertical-align: middle;
+}
+.btn{
+	width: 144px;
+	height: 40px;
+	background: black;
+	color: white;
+	text-align: center;
+	margin-top: 10px;
+}
+.btn span{
+	vertical-align: middle;
+	line-height: 40px;
+}
+.exp_title{
+	width: 466px;
+	height: 39px;
+	margin-top: 24px;
+	border: 1px solid #DADADA;
+	border-bottom: none;
+}
+.exp_title div{
+	width: 54px;
+	height: 38px;
+	text-align: center;
+}
+.exp_title .exp_title_2{
+	color: #B3B3B3;
+}
+.exp_title p{
+	line-height: 39px;
+}
+.exp_content{
+	width: 466px;
+	height: 133px;
+	border: 1px solid #DADADA;
+}
+.exp_content p{
+	margin: 10px;
+}
+.exp_content .exp_p2{
+	display: none;
+}
+.size div:hover{
+	background: black;
+	color: white;
+}

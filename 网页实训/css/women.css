@@ -1,0 +1,194 @@
+.content{
+	width: 970px;
+	height: 500px;
+	margin: 0 auto;
+}
+.content_l{
+	width: 270px;
+	height: 500px;
+}
+.content_r{
+	width: 700px;
+	height: 500px;
+}
+.content_l a{
+	color: #808080;
+}
+.content_l li.title{
+	font-size: 12px;
+	font-weight: bold;
+	font-family: '微软雅黑';
+}
+.content_l li{
+	font-size: 12px;
+	color: #cccccc;
+	font-family: '微软雅黑';
+	padding-left: 25px;
+}
+.content_r_1 p{
+	text-align: center;
+}
+.content_r_1{
+	width: 700px;
+	height: 235px;
+	background: url(../image/clothes/women_1.png);
+}
+.content_r_2{
+	width: 700px;
+	height: 520px;
+	background: url(../image/clothes/women_2.png);
+	margin-top: 25px;
+}
+.content_r_3{
+	width: 700px;
+	height: 520px;
+}
+.content_r_4{
+	width: 700px;
+	height: 520px;
+}
+.content_r_4 .left{
+	width: 332.28px;
+	height: 498.42px;
+	background: url(../image/clothes/women_6.jpg);
+	margin-top: 25px;
+}
+.content_r_4 .right{
+	width: 332.28px;
+	height: 498.42px;
+	background: #FFE9E9;
+	margin-left: 20px;
+	margin-top: 25px;
+}
+.content_r_1 .p1{
+	font-size: 13px;
+	color: white;
+	padding-top: 15px;
+}
+.content_r_1 .p2{
+	font-size: 35px;
+	color: white;
+	padding-top: 35px;
+}
+.content_r_1 .p3{
+	font-size: 16px;
+	padding-top: 20px;
+	color: white;
+}
+.content_r_1 .p4{
+	padding-top: 25px;
+}
+.content_r_1 .p4 a{
+	color: white;
+	font-size: 14px;
+}
+.content_r_2 p{
+	text-align: center;
+}
+.content_r_2 .p1{
+	padding-top: 20px;
+	font-size: 30px;
+	color: white;
+}
+.content_r_2 .p2{
+	padding-top: 20px;
+	font-size: 30px;
+	color: white;
+}
+.content_r_2 .p3{
+	padding-top: 300px;
+}
+.content_r_2 a{
+	color: white;
+}
+.content_r_3{
+	margin-top: 20px;
+}
+.content_r_3 .title{
+	text-align: center;
+}
+.content_r_3 .title p{
+	font-size: 25px;
+}
+.content_r_3 .product{
+	width: 215.22px;
+	height: 322.83px;
+	margin-right: 18px;
+	margin-top: 20px;
+}
+.content_r_3 .explain{
+	text-align: center;
+	color: black;
+}
+.content_r_4 .left p{
+	text-align: center;
+	color: white;
+}
+.content_r_4 .left .p1{
+	font-size: 14px;
+	padding-top: 400px;
+}
+.content_r_4 .left .p2{
+	font-size: 34px;
+	padding-top: 5px;
+}
+.content_r_4 .left a{
+	color: white;
+}
+.content_r_4 .right p{
+	text-align: center;
+	color: black;
+}
+.content_r_4 .right .p1{
+	font-size: 10px;
+	padding-top: 20px;
+}
+.content_r_4 .right .p2{
+	font-size: 50px;
+	padding-top: 150px;
+}
+.content_r_4 .right .p3{
+	font-size: 30px;
+	margin-top: 10px;
+}
+.content_r_4 .right .p4{
+	margin: 100px;
+}
+.content_r_4 .right a{
+	color: black;
+	text-decoration: underline;
+}
+.content_r_4 .right .bod{
+	border: 1px solid black;
+	height: 440px;
+	margin: 30px;
+}
+.content_r_5{
+	width: 700px;
+	height: 520px;
+	background: url(../image/clothes/women_7.jpg);
+	margin-top: 20px;
+}
+.content_r_5  p{
+	text-align: center;
+	color: white;
+}
+.content_r_5 .p1{
+	font-size: 14px;
+	padding-top: 340px;
+}
+.content_r_5 .p2{
+	font-size: 35px;
+}
+.content_r_5 a{
+	color: white;
+}
+.content_r_6{
+	width: 700px;
+	height: 70px;
+	margin-top: 40px; 
+}
+.content_r_6 p{
+	text-align: center;
+	font-size: 24px;
+}

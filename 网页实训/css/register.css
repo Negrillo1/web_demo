@@ -1,0 +1,94 @@
+.logo{
+	position: relative;
+	left: 10px;
+	width: 348px;
+	height: 55px;
+	margin: 0 auto;
+	margin-top: 20px;
+	text-align: center;
+}
+.formbody{
+	width: 348px;
+	height: 670px;
+	margin: 0 auto;
+	margin-top: 20px;
+	border: 1px solid #DDDDDD;
+}
+.p1{
+	font-size: 30px;
+	padding-left: 30px;
+	margin: 20px 0;
+}
+.p2{
+	padding-left: 30px;
+	padding-bottom: 10px;
+}
+.p3{
+	padding-left: 30px;
+	padding-bottom: 10px;
+}
+.username{
+	height: 50px;
+	text-align: center;
+}
+.username input{
+	border: 1px solid #DDDDDD;
+}
+.password{
+	height: 50px;
+	text-align: center;
+}
+.password input{
+	border: 1px solid #DDDDDD;
+}
+.btn{
+	height: 50px;
+	text-align: center;
+	padding-top: 20px;
+}
+.btn input{
+	background: #F3CF75;
+	border: 1px solid #DDDDDD;
+}
+.check{
+	padding-left: 25px;
+	font-size: 14px;
+}
+.more{
+	height: 70px;
+	text-align: center;
+	padding-top: 10px;
+}
+.more input{
+	background: #3BD71F;
+}
+.more p{
+	margin-bottom: 10px;
+	font-size: 12px;
+}
+.more input{
+	color: white;
+	font-size: 14px;
+}
+.reg{
+	height: 70px;
+	text-align: center;
+	padding-top: 10px;
+}
+.reg p{
+	margin-bottom: 10px;
+}
+.reg input{
+	font-size: 14px;
+}
+.email input{
+
+}
+.p4{
+	padding-top: 40px;
+	padding-left: 30px;
+	font-size: 12px;
+}
+.p4 a{
+	color: blue;
+}

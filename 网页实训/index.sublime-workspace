@@ -1,0 +1,923 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"b",
+				"black"
+			],
+			[
+				"border-",
+				"border-right"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"al",
+				"align-self"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"s",
+				"solid〔value〕"
+			],
+			[
+				"bo",
+				"border-top"
+			],
+			[
+				"te",
+				"text-anchor"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"to",
+				"toLocaleString〔function〕"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"btn",
+				"btn_2"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"reset",
+				"resetborder"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"l",
+				"location〔variable〕"
+			],
+			[
+				"clothes",
+				"clothes.html"
+			],
+			[
+				"mo",
+				"mouseenter〔function〕"
+			],
+			[
+				"no",
+				"noshow"
+			],
+			[
+				"me",
+				"menu_6"
+			],
+			[
+				"doc",
+				"document〔variable〕"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"exp",
+				"exp_title_1"
+			],
+			[
+				"e",
+				"exp_title"
+			],
+			[
+				"img",
+				"img\tTag"
+			],
+			[
+				"del",
+				"deleted〔function〕"
+			],
+			[
+				"fav",
+				"fav_1"
+			],
+			[
+				"p",
+				"price_sum"
+			],
+			[
+				"pare",
+				"parseFloat〔function〕"
+			],
+			[
+				"pri",
+				"price_2〔variable〕"
+			],
+			[
+				"price",
+				"price_2"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"d",
+				"dd\tTag"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"get",
+				"getElementById〔function〕"
+			],
+			[
+				"che",
+				"checkf〔function〕"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"im",
+				"img\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"kids",
+				"kids_p1"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"magin",
+				"margin-top"
+			],
+			[
+				"wo",
+				"woman_p2"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"product_l",
+				"product_l_top"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"logo",
+				"logo_r"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"onm",
+				"onmousedown\tAttr"
+			],
+			[
+				"onmous",
+				"onmouseout\tAttr"
+			],
+			[
+				"onM",
+				"onmousemove\tAttr"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"err",
+				"err_key2"
+			],
+			[
+				"key",
+				"key21〔variable〕"
+			],
+			[
+				"ke",
+				"key"
+			],
+			[
+				"m",
+				"myform"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"parse",
+				"parseInt〔function〕"
+			],
+			[
+				"do",
+				"double〔value〕"
+			],
+			[
+				"on",
+				"onblur\tAttr"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"pares",
+				"parseInt〔function〕"
+			],
+			[
+				"div",
+				"div1"
+			],
+			[
+				"sr",
+				"script\tTag"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"name",
+				"name1"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"sum",
+				"sum.js"
+			],
+			[
+				"su",
+				"sum1"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"r",
+				"rows\tAttr"
+			],
+			[
+				"t",
+				"table\tTag"
+			],
+			[
+				"ce",
+				"cellspacing\tAttr"
+			],
+			[
+				"00",
+				"0033cc"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"i",
+				"input\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"fr",
+				"form\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"bl",
+				"bold"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"cell",
+				"cellpadding\tAttr"
+			],
+			[
+				"texta",
+				"text-align"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"decora",
+				"text-decoration"
+			],
+			[
+				"o",
+				"onmouseover"
+			],
+			[
+				"R",
+				"Run"
+			],
+			[
+				"k",
+				"ky"
+			],
+			[
+				"ra",
+				"rad"
+			],
+			[
+				"M",
+				"Math"
+			],
+			[
+				"st",
+				"step"
+			],
+			[
+				"off",
+				"offsetWidth"
+			],
+			[
+				"sc",
+				"ScrollY"
+			],
+			[
+				"dir",
+				"dirx"
+			],
+			[
+				"mA",
+				"Math"
+			],
+			[
+				"RA",
+				"random"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"win",
+				"window"
+			],
+			[
+				"add",
+				"addEvent"
+			],
+			[
+				"S",
+				"ScrollY"
+			],
+			[
+				"Sc",
+				"ScrollX"
+			],
+			[
+				"ad",
+				"AdMoveConfig"
+			],
+			[
+				"Ad",
+				"AdMoveConfig"
+			],
+			[
+				"page",
+				"pageHeight"
+			],
+			[
+				"cli",
+				"clientHeight"
+			],
+			[
+				"X",
+				"xScroll"
+			],
+			[
+				"textd",
+				"text-decoration"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"tex",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Administrator/Desktop/hibernate约束.txt",
+			"settings":
+			{
+				"buffer_size": 346,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Administrator/Desktop/web.xml",
+			"settings":
+			{
+				"buffer_size": 1505,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 302.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 312.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/网页实训",
+		"/F/网页实训/css"
+	],
+	"file_history":
+	[
+		"/H/丢失捡回送儿子一个.txt",
+		"/F/网页实训/fav.html",
+		"/C/Users/Administrator/Desktop/test.html",
+		"/C/Users/Administrator/Desktop/demo1.html",
+		"/E/java web资料/web 前端练习/easyui/index.html",
+		"/E/java web资料/web 前端练习/easyui/EasyUi/demo/layout/basic.html",
+		"/E/java web资料/web 前端练习/easyui/EasyUi/demo/tree/lines.html",
+		"/F/网页实训/clothes.html",
+		"/D/apache-tomcat-7.0.78-windows-x64/apache-tomcat-7.0.78/conf/server.xml",
+		"/C/Users/Administrator/Desktop/struts.xml",
+		"/C/Users/Administrator/Desktop/web.xml",
+		"/E/java web资料/hibernate-release-5.0.7.Final/hibernate-release-5.0.7.Final/project/etc/hibernate.properties",
+		"/E/java web资料/hibernate-release-5.0.7.Final/hibernate-release-5.0.7.Final/project/hibernate-spatial/databases/postgis/resources/hibernate.properties",
+		"/F/网页实训/index.html",
+		"/F/网页实训/150202102356_林敬凯——购物网站前端设计.doc",
+		"/E/java web资料/web 前端练习/showtime.html",
+		"/E/java web资料/web 前端练习/showtimehtml",
+		"/F/网页实训/js/fav.js",
+		"/F/网页实训/css/fav.css",
+		"/F/网页实训/js/jquery.luara.0.0.1.min.js",
+		"/F/网页实训/shopping.html",
+		"/F/网页实训/js/clothes.js",
+		"/F/网页实训/js/shopping.js",
+		"/F/网页实训/js/login.js",
+		"/F/网页实训/product.html",
+		"/F/网页实训/man.html",
+		"/F/网页实训/css/man.css",
+		"/F/网页实训/sport.html",
+		"/F/网页实训/js/index.js",
+		"/F/网页实训/css/index.css",
+		"/F/网页实训/login.html",
+		"/F/网页实训/house.html",
+		"/F/网页设计/150202102356_林敬凯_作业7/sum.js",
+		"/F/网页实训/css/product.css",
+		"/F/网页实训/js/product.js",
+		"/F/网页实训/js/register.js",
+		"/F/网页实训/js/jquery-1.8.3.min.js",
+		"/F/网页实训/css/shopping.css",
+		"/F/网页实训/css/sport.css",
+		"/F/网页实训/register.html",
+		"/F/网页实训/css/register.css",
+		"/F/网页实训/css/login.css",
+		"/F/网页实训/women.html",
+		"/F/网页实训/image/01.png",
+		"/H/网页实训/css/women.css",
+		"/H/网页实训/clothes.html",
+		"/H/网页实训/women.html",
+		"/H/网页实训/js/clothes.js",
+		"/H/网页实训/css/clothes.css",
+		"/H/网页实训/image/clothes/women_6.jpg",
+		"/H/网页实训/image/clothes/women_3.jpg",
+		"/C/Users/Administrator/Desktop/jiaoben4524/jiaoben4524/js/YuxiSlider.jQuery.min.js",
+		"/C/Users/Administrator/Desktop/jiaoben4524/jiaoben4524/index.html",
+		"/F/网页实训/css/clothes.css",
+		"/F/网页实训/css/house.css",
+		"/F/网页实训/css/cssReset.css",
+		"/F/网页实训/css/common.css",
+		"/F/网页实训/index.sublime-project",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/F/网页设计/150202102356_林敬凯_作业8/实验15.html",
+		"/F/网页设计/150202102356_林敬凯_作业8/实验15_2.html",
+		"/F/网页设计/150202102356_林敬凯_作业8/实训11.html",
+		"/F/网页设计/150202102356_林敬凯_作业8/实训11_2.html",
+		"/F/网页设计/150202102356_林敬凯_作业7/实训10_3.html",
+		"/F/网页设计/150202102356_林敬凯_作业7/实训9_3.html",
+		"/F/网页设计/150202102356_林敬凯_作业7/实训9_2.html",
+		"/F/网页设计/150202102356_林敬凯_作业7/实训9.html",
+		"/F/网页设计/150202102356_林敬凯_作业7/实训10_1.html",
+		"/F/网页设计/150202102356_林敬凯_作业7/实训10_1_2.html",
+		"/F/网页设计/150202102356_林敬凯_作业7/实训10_1_3.html",
+		"/F/网页设计/150202102356_林敬凯_作业7/实训10_2.html",
+		"/F/网页设计/150202102356_林敬凯_作业7/实训10_1_1.html",
+		"/F/网页设计/150202102356_林敬凯_作业6(2)/实验13_2.html",
+		"/F/网页设计/150202102356_林敬凯_作业6(2)/实训8_1.html",
+		"/F/网页设计/150202102356_林敬凯_作业6(2)/实训8_2.html",
+		"/F/网页设计/150202102356_林敬凯_作业6(2)/实验13_1.html",
+		"/F/网页设计/150202102356_林敬凯_作业6/left.html",
+		"/F/网页设计/150202102356_林敬凯_作业6/实验12_1.html",
+		"/F/网页设计/150202102356_林敬凯_作业6/实验12_2.html",
+		"/F/网页设计/150202102356_林敬凯_作业6/实训7_1.html",
+		"/F/网页设计/150202102356_林敬凯_作业6/zhenghe.html",
+		"/F/网页设计/150202102356_林敬凯_作业6/bottom.html",
+		"/F/网页设计/150202102356_林敬凯_作业6/top.html",
+		"/F/网页设计/150202102356_林敬凯_作业6/header.html",
+		"/F/网页设计/150202102356_林敬凯_作业6/nav.html",
+		"/F/网页设计/150202102356_林敬凯_作业6/article.html",
+		"/F/网页设计/150202102356_林敬凯_作业6/footer.html",
+		"/F/网页设计/150202102356_林敬凯_作业5/实训6_2.html",
+		"/F/网页设计/150202102356_林敬凯_作业5/实训6_1.html",
+		"/F/网页设计/150202102356_林敬凯_作业2/实训/实训2_3.html",
+		"/C/Users/Administrator/Desktop/敬凯爸爸/test.html",
+		"/C/Users/Administrator/Desktop/敬凯爸爸/实验10_2.html",
+		"/C/Users/Administrator/Desktop/敬凯爸爸/实训5_2.html",
+		"/C/Users/Administrator/Desktop/实验10_1.html",
+		"/C/Users/Administrator/Desktop/敬凯爸爸/实训4_1.html",
+		"/C/Users/Administrator/Desktop/敬凯爸爸/实训4_2.html",
+		"/C/Users/Administrator/Desktop/敬凯爸爸/layout_3.css",
+		"/C/Users/Administrator/Desktop/敬凯爸爸/实训5_1_3.html",
+		"/C/Users/Administrator/Desktop/敬凯爸爸/layout_1.css",
+		"/C/Users/Administrator/Desktop/敬凯爸爸/layout_2.css",
+		"/C/Users/Administrator/Desktop/敬凯爸爸/实训5_1_2.html",
+		"/C/Users/Administrator/Desktop/敬凯爸爸/实验9_2.html",
+		"/C/Users/Administrator/Desktop/敬凯爸爸/css.css",
+		"/C/Users/Administrator/Desktop/敬凯爸爸/实训5_1.html",
+		"/C/Users/Administrator/Desktop/敬凯爸爸/实验9.html",
+		"/C/Users/Administrator/Desktop/实训3/实训3_2.html",
+		"/F/网页设计/150202102356_林敬凯_作业3/实验8_2.html",
+		"/F/网页设计/150202102356_林敬凯_作业3/实验6_1.html",
+		"/F/网页设计/150202102356_林敬凯_作业3/实验6_2.html",
+		"/F/网页设计/150202102356_林敬凯_作业3/实验7_1.html",
+		"/F/网页设计/150202102356_林敬凯_作业3/实验7_2.html",
+		"/F/网页设计/150202102356_林敬凯_作业3/实验8_1.html",
+		"/F/网页设计/150202102356_林敬凯_作业3/exp_8_1.css",
+		"/C/Users/Administrator/Desktop/150202102356_林敬凯_作业2/实验/实验5_1.html",
+		"/C/Users/Administrator/Desktop/150202102356_林敬凯_作业2/实训/实训2_1.html",
+		"/C/Users/Administrator/Desktop/实验5_1.html",
+		"/C/Users/Administrator/Desktop/实验4_2.html",
+		"/C/Users/Administrator/Desktop/实验4_1.html",
+		"/C/Users/Administrator/Desktop/实验5_2.html",
+		"/C/Users/Administrator/Desktop/实验5.html",
+		"/C/Users/Administrator/Desktop/实训2_4.html",
+		"/C/Users/Administrator/Desktop/实验3_1.html",
+		"/C/Users/Administrator/Desktop/实验3_2.html",
+		"/C/Users/Administrator/Desktop/实验3.html",
+		"/C/Users/Administrator/Desktop/实验3",
+		"/C/Users/Administrator/Desktop/Task5.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n",
+			"shopping",
+			"html",
+			"150px",
+			";\n",
+			"auto",
+			"btn",
+			";\n",
+			"微信帐号注册",
+			"60px",
+			";\n",
+			"40px",
+			";\n",
+			"微信号不能为空",
+			"(&));\n",
+			";\n",
+			"right",
+			";\n",
+			"center",
+			"桂林山水1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Administrator/Desktop/hibernate约束.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 346,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								346,
+								346
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+							],
+							"SL.15.region_keys":
+							[
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Administrator/Desktop/web.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1505,
+								1371
+							]
+						],
+						"settings":
+						{
+							"SL.15.region_keys":
+							[
+							],
+							"syntax": "Packages/XML/XML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 264.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 144.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
